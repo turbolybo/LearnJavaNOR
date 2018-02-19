@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Eksamen
+comment0.text=\r\n\ Eksempel\ p\u00E5\ besvarelse\ p\u00E5\ Oppgave\ 1-2\ p\u00E5\ Eksamenssettet\ i\ PGR100\ H16.\r\n
+comment1.params=
+comment1.target=Eksamen()
+comment2.params=
+comment2.target=void\ Oppgave1a()
+comment3.params=
+comment3.target=int\ Oppgave1b()
+comment4.params=binArray
+comment4.target=boolean\ checkBinary(int[])
+comment5.params=searchArray\ luckyNumber
+comment5.target=int\ found(int[],\ int)
+numComments=6

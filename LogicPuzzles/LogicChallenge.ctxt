@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LogicChallenge
+comment1.params=
+comment1.target=LogicChallenge()
+comment2.params=speed\ isBirthday
+comment2.target=int\ caughtSpeeding(int,\ boolean)
+comment2.text=\ Vanskelighetsgrad\:\ lett\r\n\ Du\ kj\u00F8rer\ litt\ for\ fort,\ og\ en\ politimann\ stopper\ deg.\r\n\ Skriv\ kode\ som\ regner\ ut\ st\u00F8rrelsen\ p\u00E5\ boten,\ og\ returner\ den.\r\n\ Hvis\ farten\ er\ 50\ eller\ under\ f\u00E5r\ du\ ingen\ bot,\ men\r\n\ kj\u00F8rer\ du\ 5km/t\ over\ f\u00E5r\ du\ 1000\ kr\ i\ bot,\ og\ 1000kr\ ekstra\ for\r\n\ hver\ 5km/t\ du\ kj\u00F8rer\ over\ fartsgrensen.\r\n\ Hvis\ du\ har\ bursdag\ ser\ politimannen\ vekk\ fra\ boten.\r\n
+comment3.params=steps
+comment3.target=void\ mario(int)
+comment3.text=\r\n\ Vanskelighetsgrad\:\ medium\r\n\ Du\ skal\ lage\ en\ pyramide.\ Metoden\ tar\ inn\ et\ heltall\ som\r\n\ representerer\ antall\ steg\ den\ skal\ ha.\ \r\n\ Eks\:\ mario(5);\r\n\ Vil\ gi\ denne\ utskriften\:\r\n\ \#\r\n\ \#\#\r\n\ \#\#\#\r\n\ \#\#\#\#\r\n\ \#\#\#\#\#\r\n
+comment4.params=steps
+comment4.target=void\ hardMario(int)
+comment4.text=\r\n\ Vanskelighetsgrad\:\ medium+\r\n\ Bygg\ videre\ p\u00E5\ mario\ og\ f\u00E5\ den\ til\ \u00E5\ starte\ andre\ veien.\r\n\ Eks\ hardMario(5);\r\n\ Vil\ gi\ denne\ utskriften\r\n\ \ \ \ \ \#\r\n\ \ \ \ \#\#\r\n\ \ \ \#\#\#\r\n\ \ \#\#\#\#\r\n\ \#\#\#\#\#\r\n
+comment5.params=nums
+comment5.target=int\ countEven(int[])
+comment5.text=\r\n\ Vanskelighetsgrad\:\ Vanskelig\r\n\ Metoden\ tar\ inn\ et\ array\ som\ parameter,\ skriv\ kode\ som\ teller\r\n\ antall\ partall\ i\ arrayet.\ Den\ skal\ alts\u00E5\ ikke\ telle\ opp\ dersom\ \r\n\ tallet\ er\ oddetall.\ Eksempel\:\r\n\ countEven([2,\ 1,\ 2,\ 3\ ,4])\ \=>\ 3\r\n\ HINT\:\ Modulu\ %\ operator\ (Gir\ deg\ restverdien\ etter\ du\ deler)\r\n\ F.eks\ 17\ %\ 10\ \=\ 7\ (7\ er\ resten\ av\ delingen)\r\n
+numComments=6
