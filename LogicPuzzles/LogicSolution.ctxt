@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LogicSolution
+comment0.text=\r\n\ L\u00F8sningsforslag.\ Husk\ at\ det\ kan\ l\u00F8ses\ p\u00E5\ forskjellige\ m\u00E5ter,\ og\ det\ kan\r\n\ godt\ hende\ at\ dere\ har\ l\u00F8st\ det\ p\u00E5\ en\ bedre\ m\u00E5te\ enn\ meg.\r\n
+comment1.params=
+comment1.target=LogicSolution()
+comment2.params=speed\ isBirthday
+comment2.target=int\ caughtSpeeding(int,\ boolean)
+comment3.params=steps
+comment3.target=void\ mario(int)
+comment3.text=\r\n\ Denne\ kan\ virke\ vanskelig,\ siden\ det\ er\ to\ l\u00F8kker\ inni\ hverandre.\r\n\ Bruk\ tid\ p\u00E5\ \u00E5\ forst\u00E5\ hva\ som\ skjer.\r\n
+comment4.params=steps
+comment4.target=void\ hardMario(int)
+comment4.text=\r\n\ Vi\ bygger\ videre\ p\u00E5\ mario.\ Her\ blir\ det\ vrient.\r\n\ Her\ har\ vi\ 1\ l\u00F8kke\ med\ 2\ l\u00F8kker\ inni\ seg.\r\n
+comment5.params=nums
+comment5.target=int\ countEven(int[])
+numComments=6

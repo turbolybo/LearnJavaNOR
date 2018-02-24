@@ -1,7 +1,9 @@
 #BlueJ class context
 comment0.target=LogicChallenge
+comment0.text=\r\n\ \r\n
 comment1.params=
 comment1.target=LogicChallenge()
+comment1.text=\r\n\ Husk\ \u00E5\ teste\ at\ metodene\ fungerer\ som\ forventet.\r\n
 comment2.params=speed\ isBirthday
 comment2.target=int\ caughtSpeeding(int,\ boolean)
 comment2.text=\ Vanskelighetsgrad\:\ lett\r\n\ Du\ kj\u00F8rer\ litt\ for\ fort,\ og\ en\ politimann\ stopper\ deg.\r\n\ Skriv\ kode\ som\ regner\ ut\ st\u00F8rrelsen\ p\u00E5\ boten,\ og\ returner\ den.\r\n\ Hvis\ farten\ er\ 50\ eller\ under\ f\u00E5r\ du\ ingen\ bot,\ men\r\n\ kj\u00F8rer\ du\ 5km/t\ over\ f\u00E5r\ du\ 1000\ kr\ i\ bot,\ og\ 1000kr\ ekstra\ for\r\n\ hver\ 5km/t\ du\ kj\u00F8rer\ over\ fartsgrensen.\r\n\ Hvis\ du\ har\ bursdag\ ser\ politimannen\ vekk\ fra\ boten.\r\n
